@@ -1,0 +1,6 @@
+PyPDF2==1.26.0
+pikepdf==2.2.1
+gTTS==2.2.1
+pygame==2.0.0
+tqdm==4.54.1
+
