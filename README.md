@@ -11,7 +11,6 @@
 - [Overview](#overview)
 - [Installation](#installation)
 - [Basic Usage](#basic-usage)
-<<<<<<< HEAD
 - [About Project](#about-project)
 
 # Overview
@@ -34,7 +33,7 @@ To be honest this third feature is only a just for fun project because it's so s
 2. `pip install -r requirements.txt`
 3. `python audiyu.py`
 
-# [Basic Usage](#basic-usage)
+# Basic Usage
 
 ###  **I. Decrypt and remove PDF's password**
 
@@ -55,11 +54,7 @@ To be honest this third feature is only a just for fun project because it's so s
 5. You'll need to choose custom endpoint or the rest of the page. If you want custom endpoint press 1 and press enter, if you want the rest of the book than press 2 and enter. If you choose to, skip to step 7.
 6. Insert the custom endpoint. Make sure it's a number
 7. Insert the name of the Mp3 File, no need to type the .mp3 extension
-8. Please wait patiently until the program is done.
-=======
-- About Project
->>>>>>> 68e36022e4040389962f86ea18a3f0f2284a65ca
-
+8. Please wait patiently until the program is done
 ### **III. Music Player**
 
 1. Start the program, `python audiyu.py`
@@ -70,9 +65,6 @@ To be honest this third feature is only a just for fun project because it's so s
 5. press 'p' and enter to pause, press 'r' and enter to resume, and press 
     'e' and enter to exit
 
-<<<<<<< HEAD
-
 
 # About Project
-=======
->>>>>>> 68e36022e4040389962f86ea18a3f0f2284a65ca
+​	This is my first github repo. You can consider this project as a learning project. This project is simple, but I really proud of it :D
